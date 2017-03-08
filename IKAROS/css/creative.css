@@ -340,8 +340,10 @@ img {
   font-style: italic;
   font-size: 20px;
 }
+.ikaros{max-width: 50%;}
 
 @media (min-width: 768px) {
+  .ikaros{max-width: 100%;}
   h2{font-size: 30px;}
   header {
     min-height: 100%;
